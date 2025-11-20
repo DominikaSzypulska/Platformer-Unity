@@ -101,6 +101,6 @@ Assets/
 ## Credits
 
 * Game graphics and animations: Sunny Land Asset Pack.
-* Development: Dominika Szypulska (under the supervision of Dr. Eng. Mariusz Szwoch)
+* Development: [Dominika Szypulska](https://github.com/DominikaSzypulska) (under the supervision of Dr. Eng. Mariusz Szwoch)
 * Additional free assets: 2D Pixel Item Asset Pack.
 * Inspired by classic 2D platformer mechanics.
